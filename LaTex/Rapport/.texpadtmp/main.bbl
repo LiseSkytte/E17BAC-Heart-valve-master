@@ -16,6 +16,14 @@
   {}
 \endgroup
 
+\entry{hej}{book}{}
+  \list{publisher}{1}{%
+    {hej}%
+  }
+  \field{title}{hej}
+  \field{year}{7867}
+\endentry
+
 \lossort
 \endlossort
 
